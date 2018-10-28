@@ -1,0 +1,1 @@
+javascript:(function(){document.addEventListener("DOMContentLoaded",function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href","https://josuerz.xyz/darkdocs/style.css","css"),document.getElementsByTagName("head")[0].appendChild(t),document.querySelector("body").classList.add("darkdocs")});})()
